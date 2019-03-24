@@ -39,6 +39,30 @@
 			"revisionTime": "2019-03-18T19:48:12Z"
 		},
 		{
+			"checksumSHA1": "BC1nFxDYDUMYojKqxwSaWqy+b+A=",
+			"path": "github.com/jinzhu/gorm/dialects/postgres",
+			"revision": "8b07437717e71c2ff00602ae19f8353ba10aafbb",
+			"revisionTime": "2019-03-10T12:17:21Z"
+		},
+		{
+			"checksumSHA1": "51V1n77NB8aHhnAhC6TuBMZyj5w=",
+			"path": "github.com/lib/pq",
+			"revision": "5ccc9857e3a95a4233a13e445831cb31b90e73a6",
+			"revisionTime": "2019-03-21T21:06:58Z"
+		},
+		{
+			"checksumSHA1": "wYhUtPI9cCxqkXtXUGeF7l1xaoU=",
+			"path": "github.com/lib/pq/hstore",
+			"revision": "5ccc9857e3a95a4233a13e445831cb31b90e73a6",
+			"revisionTime": "2019-03-21T21:06:58Z"
+		},
+		{
+			"checksumSHA1": "QPjV8nrnzjkHGgLYwlqYCOSbwH4=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "5ccc9857e3a95a4233a13e445831cb31b90e73a6",
+			"revisionTime": "2019-03-21T21:06:58Z"
+		},
+		{
 			"checksumSHA1": "A7CA8kdeDAQo6tsMv2kXK+Hm7/Y=",
 			"path": "github.com/mattn/go-isatty",
 			"revision": "c2a7a6ca930a4cd0bc33a3f298eb71960732a3a7",

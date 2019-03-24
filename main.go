@@ -3,9 +3,11 @@ package main
 import (
 	"fmt"
 
-	controller "distributorBE/controller"
-
 	"github.com/gin-gonic/gin"
+	_ "github.com/jinzhu/gorm/dialects/postgres"
+
+	controller "distributorBE/controller"
+	_ "distributorBE/database"
 )
 
 func main() {
